@@ -16,6 +16,9 @@
 
 	<properties>
 		<java.version>15</java.version>
+		<maker-mongo.version>0.0.6</maker-mongo.version>
+		<amazon-sdk.version>1.11.728</amazon-sdk.version>
+		<commons-io.version>2.6</commons-io.version>
 	</properties>
 
 	<dependencies>
@@ -54,6 +57,11 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>aws-java-sdk</artifactId>
+			<version>1.11.327</version>
 		</dependency>
 	</dependencies>
 
