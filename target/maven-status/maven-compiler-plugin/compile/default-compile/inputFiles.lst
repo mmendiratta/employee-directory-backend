@@ -1,6 +1,12 @@
-/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/Employee.java
-/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/controller/DirectoryController.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/controller/EmployeeController.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/exceptions/EmployeeNotFoundAdvice.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/controller/HealthController.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/service/impl/EmployeeServiceImpl.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/service/EmployeeService.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/config/AppConfig.java
 /Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/config/SecurityConfiguration.java
-/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/EmployeeRepository.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/repository/EmployeeRepository.java
 /Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/DatabaseLoader.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/exceptions/EmployeeNotFoundException.java
+/Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/model/Employee.java
 /Users/Z0041M4/Projects/Learning/employee-directory/employee-directory-backend/src/main/java/com/employeedirectory/demo/DemoApplication.java
